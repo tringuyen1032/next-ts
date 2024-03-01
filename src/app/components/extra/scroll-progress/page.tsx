@@ -4,7 +4,7 @@ import ScrollProgressView from 'src/sections/_examples/extra/scroll-progress-vie
 // ----------------------------------------------------------------------
 
 export const metadata = {
-  title: 'Extra: Scroll Progress'
+  title: 'Extra: Scroll Progress',
 };
 
 export default function ScrollProgressPage() {

@@ -4,7 +4,7 @@ import LightboxView from 'src/sections/_examples/extra/lightbox-view';
 // ----------------------------------------------------------------------
 
 export const metadata = {
-  title: 'Extra: Lightbox'
+  title: 'Extra: Lightbox',
 };
 
 export default function LightboxPage() {
