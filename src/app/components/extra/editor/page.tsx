@@ -4,7 +4,7 @@ import EditorView from 'src/sections/_examples/extra/editor-view';
 // ----------------------------------------------------------------------
 
 export const metadata = {
-  title: 'Extra: Editor',
+  title: 'Extra: Editor'
 };
 
 export default function EditorPage() {

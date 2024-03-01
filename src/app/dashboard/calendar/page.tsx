@@ -4,7 +4,7 @@ import { CalendarView } from 'src/sections/calendar/view';
 // ----------------------------------------------------------------------
 
 export const metadata = {
-  title: 'Dashboard: Calendar',
+  title: 'Dashboard: Calendar'
 };
 
 export default function CalendarPage() {
